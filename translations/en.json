@@ -1,0 +1,14 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Add new Edenred card",
+        "data": {
+          "name": "Name of the card",
+          "card_number": "Credit card serial number (on the back side)",
+          "pan": "Last 4-digit numbers (on front side)"
+        }
+      }
+    }
+  }
+}
